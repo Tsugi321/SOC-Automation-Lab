@@ -1,4 +1,4 @@
-# PROJECTNAME
+# TryHackMe
 
 ## Objective
 [Brief Objective - Remove this afterwards]
