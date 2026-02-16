@@ -16,4 +16,4 @@ Design and implement an end‑to‑end SOC automation workflow using Wazuh, TheH
 
 ## Steps
 
-<img width="1294" height="1137" alt="image" src="https://github.com/user-attachments/assets/a95bd107-3768-4a9f-9d53-c90da963f606" />
+<img width="1451" height="1137" alt="image" src="https://github.com/user-attachments/assets/989d81b0-182f-45d6-b259-0f97a2887719" />
